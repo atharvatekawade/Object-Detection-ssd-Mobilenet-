@@ -11,4 +11,5 @@ Required Packages:
 1. opencv-python
 
 Running:
+
 Clone the repo and run python3 main.py to get started
