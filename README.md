@@ -1,6 +1,6 @@
 # Object-Detection-ssd-Mobilenet-
 
-This is a quick python script for Real Time Object Detection using MobileNetV3-SSD. The classes.txt file contains the coco dataset labels.
+This is a quick python script for Real Time Object Detection with your Webcam using MobileNetV3-SSD. The classes.txt file contains the coco dataset labels.
 
 Useful Resources:
 1. https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
