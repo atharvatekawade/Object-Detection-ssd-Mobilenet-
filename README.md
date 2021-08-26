@@ -7,8 +7,10 @@ Useful Resources:
 2. https://github.com/opencv/opencv/pull/16760
 3. https://www.youtube.com/watch?v=HXDD7-EnGBY&list=RDCMUCYUjYU5FveRAscQ8V21w81A&index=14
 
+
 Required Packages:
 1. opencv-python
+
 
 Running:
 
